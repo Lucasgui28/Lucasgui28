@@ -1,7 +1,7 @@
 ## Lucas
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZsYTlzY2ltNnJlOXRjcGU2Y3gxcDh3d29sYjhtYXkxMDQ5ZTJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYqNvrl2YaPGLaU/giphy.gif" width="480">
+  <img src="<img src="./src/matrix-rain.svg" width="480">">
 </div>
 
 #
