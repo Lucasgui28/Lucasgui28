@@ -1,11 +1,27 @@
 ## Lucas
 
-<h1 align="center">Olá, eu sou o schizosoares 👋</h1> <p align="center"> <img src="https://img.shields.io/badge/Pentest-black?style=for-the-badge&logo=hackaday&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
-🕵️ Sobre mim
+<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"> </a> </div>
 
-Atuo na área de Pentest / Segurança da Informação, com foco em testes de invasão, análise de vulnerabilidades e automação de scripts em Python para apoiar o processo de segurança ofensiva. Gosto de explorar sistemas, entender como quebrá-los e, principalmente, como protegê-los.
+Me chamo schizosoares e atuo na área de Pentest / Segurança da Informação, com foco em testes de invasão, análise de vulnerabilidades e automação de scripts em Python para apoiar o processo de segurança ofensiva. Gosto de explorar sistemas, entender como quebrá-los e, principalmente, como protegê-los.
 
-🛠️ Linguagens e Tecnologias
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /> </p>
-📫 Contato
-<p align="left"> <a href="https://www.linkedin.com/in/lucas-guilherme-086b58269/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<h3 align="left">Connect with me!</h3>
+
+Mostrar Imagem
+
+<h3 align="left">My Stack ~</h3>
+
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+
+<img align="left" alt="Github" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br/> <br/> <h3 align="left">GitHub Stats</h3> <p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=schizosoares&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
+
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=schizosoares&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
+
+</p>
