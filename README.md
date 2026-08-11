@@ -1,7 +1,7 @@
 ## Lucas
 
 <div align="center">
-  <img src="<img src="./src/matrix-rain.svg" width="480">">
+<img src="./src/matrix-rain.svg" width="480">
 </div>
 
 #
